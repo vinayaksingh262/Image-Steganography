@@ -12,3 +12,10 @@ Error Handling: Robust error handling to ensure invalid inputs or corrupted file
 HTML: Used for structuring the web page.
 CSS: Provides styling for the web page to ensure a visually appealing and responsive design.
 JavaScript: Implements the core steganographic functionality for embedding and extracting messages.
+
+**Usage**
+Enter the text you want to hide in the provided text area.
+Choose an image file by clicking on the "Choose File" button.
+Click on "Hide the message" to embed the message into the selected image.
+Download the modified image using the "DOWNLOAD" button.
+To extract a message from an image, upload the steganographic image and click "Extract message".
